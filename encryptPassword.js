@@ -66,3 +66,9 @@ rl.question('Por favor, ingrese la contraseña a encriptar: ', async (password) 
         rl.close();
     }
 });
+
+// ⠀⠀⠀⠀⣄⠀⠀⠀
+// ⢰⣤⣀⣼⣿⠀⠀⠀
+// ⠀⣱⠆⠀⢨⣓⣦⠄
+// ⠴⠷⠒⢆⣿⠅⠀⠀
+// ⠀⠀⠀⠈⠋⠂⠀⠀
