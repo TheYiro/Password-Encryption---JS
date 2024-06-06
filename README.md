@@ -1,6 +1,6 @@
 # 🔒 Password Encryptor
 
-![Password Encryptor](https://cdn.discordapp.com/attachments/770019428174790699/1246889889975500821/encryptedpass.PNG?ex=665e0833&is=665cb6b3&hm=e92cf4a7e69162d93d8857ff65a1aa715730d12cb679e79a7e7f97154a1c6a4b&)
+![Password Encryptor](https://cdn.discordapp.com/attachments/770019428174790699/1246889889975500821/encryptedpass.PNG?ex=6662a573&is=666153f3&hm=1d1b89cc37fd2dc8930b14f6a2ff2c8316de8a337f8d519d3f4019f32b281223&)
 
 ## Descripción del Proyecto
 Este proyecto es un sencillo pero poderoso encriptador de contraseñas, implementado en Node.js. Utiliza bcrypt para encriptar contraseñas y guarda tanto la contraseña original como la encriptada en un archivo JSON.
