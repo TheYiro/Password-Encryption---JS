@@ -5,7 +5,7 @@
 ## Descripción del Proyecto
 Este proyecto es un sencillo pero poderoso encriptador de contraseñas, implementado en Node.js. Utiliza bcrypt para encriptar contraseñas y guarda tanto la contraseña original como la encriptada en un archivo JSON.
 
-#### **-> Lenguaje:** *:es:* 
+#### **-> Idioma:** *:es:* 
 
 ## 🚀 Características
 
