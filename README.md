@@ -49,7 +49,7 @@ Este proyecto es un sencillo pero poderoso encriptador de contraseñas, implemen
 
 ## 📷 Capturas de Pantalla
 
-![Captura de Pantalla 1](https://cdn.discordapp.com/attachments/770019428174790699/1246894499209154600/image.png?ex=665e0c7e&is=665cbafe&hm=9ee3ad54150a822150d66b362cfc227bb3d43bfff1d5ac97d812ce529ab0c7e3&)
+![Captura de Pantalla 1](https://cdn.discordapp.com/attachments/770019428174790699/1246894499209154600/image.png?ex=6662a9be&is=6661583e&hm=cbf3255df025670a2b4dcd62be04cff2e7637ae8e29b1a575a02f93064e956d9&)
 <br>*credentials.json - Credenciales Guardadas en el JSON*</br>
 
 ## 📂 Estructura del Proyecto
